@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Adam | Front-End Developer & AI Prompt Engineer
+# 🚀 Adam | Front-End Developer & AI Prompt Engineer 👨🏻‍💻
 
 ### 🌐 Building Modern Web Experiences with AI
 

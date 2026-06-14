@@ -1,20 +1,24 @@
+<div align="center">
+
 # 🚀 Adam | Front-End Developer & AI Prompt Engineer
 
 ### 🌐 Building Modern Web Experiences with AI
 
-[Portfolio](#) • [LinkedIn](#) • [Email](#)
+[Portfolio](#) • [LinkedIn](#) • [Email](mailto:adamabdelbarey@gmail.com)
 
-> *"Turning ideas into products, one prompt and one pixel at a time."*
+*"Turning ideas into products, one prompt and one pixel at a time."*
+
+### 🎨 Front-End Developer • 🤖 AI Prompt Engineer • 💼 Freelancer • 🧩 Problem Solver • ⚡ Vibe Coder
+
+</div>
 
 ---
 
-## 🎯 Front-End Developer • AI Prompt Engineer • UI/UX Enthusiast • Freelancer
-
 # 👋 Hello World!
 
-Hey there! I'm **Adam**, a Front-End Developer and AI Prompt Engineer passionate about creating beautiful user experiences and leveraging AI to build faster and smarter.
+Hey there! I'm **Adam**, a Front-End Developer and AI Prompt Engineer passionate about building beautiful user experiences and leveraging AI to create smarter workflows.
 
-I enjoy transforming ideas into responsive websites, optimizing workflows with AI tools, and continuously learning new technologies.
+I enjoy transforming ideas into responsive websites, crafting effective prompts, exploring modern AI tools, and continuously improving my design and development skills.
 
 ```python
 class Adam:
@@ -40,132 +44,123 @@ class Adam:
 
         self.ai_tech_stack = {
             "tools": [
+                "ChatGPT",
                 "Claude",
-                "Open Code",
+                "Gemini",
                 "Cursor",
                 "Copilot",
-                "ChatGPT",
-                "Gemini",
-                "Windsurf"
+                "Windsurf",
+                "OpenCode"
             ]
         }
 
     def say_hi(self):
-        print("Let's build something amazing!")
+        print("Let's build something amazing together!")
 
 me = Adam()
 me.say_hi()
 ```
 
-## 🛠️ Tech Stack
+---
 
-| Front-End 🌐 | AI Tools 🤖 | Design 🎨         | Productivity ⚡ |
-| ------------ | ----------- | ----------------- | -------------- |
-| HTML         | ChatGPT     | UI/UX Design      | Git            |
-| CSS          | Claude      | Responsive Design | GitHub         |
-| Bootstrap    | Gemini      | Wireframing       | VS Code        |
-| JavaScript   | Cursor      | User Experience   | Windows        |
-| Flutter      | Copilot     | Prototyping       | Notion         |
-| REST APIs    | Windsurf    | Design Systems    | Open Code      |
+# 🛠️ Creative Tech Stack
+
+| Front-End 🌐       | AI Tools 🤖 | Design 🎨         | Productivity ⚡ |
+| ------------------ | ----------- | ----------------- | -------------- |
+| HTML               | ChatGPT     | UI/UX Design      | Git            |
+| CSS                | Claude      | Responsive Design | GitHub         |
+| Bootstrap          | Gemini      | Wireframing       | VS Code        |
+| JavaScript         | Cursor      | Design Systems    | Notion         |
+| Flutter (Learning) | Copilot     | User Experience   | Windows        |
+| REST APIs          | Windsurf    | Prototyping       | OpenCode       |
 
 ---
 
-## 🌟 Current Focus
+# 🌟 Current Focus
 
-* 🤖 Building AI-assisted applications
+* 🤖 Building AI-powered web applications
+* 🌐 Creating modern responsive websites
 * 🎨 Improving UI/UX design skills
-* 🌐 Creating responsive websites
-* 💼 Growing as a freelancer
-* ⚡ Exploring AI coding workflows
-* 📱 Learning modern front-end technologies
-* 🚀 Shipping projects faster with AI
+* 💼 Growing my freelancing career
+* ⚡ Exploring AI-assisted development
+* 📱 Learning Flutter & cross-platform development
+* 🚀 Shipping projects faster with AI workflows
 
 ---
 
-## 💡 What I Enjoy
+# 📊 GitHub Analytics
 
-### 🎨 UI/UX Design
+<div align="center">
 
-Designing interfaces that are clean, modern, and user-friendly.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamabdelbarey\&show_icons=true\&theme=tokyonight)
 
-### 🧩 Problem Solving
+![GitHub Streak](https://streak-stats.demolab.com?user=adamabdelbarey\&theme=tokyonight)
 
-Breaking complex challenges into simple solutions.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamabdelbarey\&layout=compact\&theme=tokyonight)
 
-### 💼 Freelancing
-
-Helping clients bring their ideas to life.
-
-### ⚡ Vibe Coding
-
-Using AI tools and creativity to build products quickly.
+</div>
 
 ---
 
-## 🚀 AI Workflow
+# 🧠 Growth Areas
 
-### Daily Toolkit
-
-* ChatGPT → Brainstorming & Prompt Engineering
-* Claude → Long-form reasoning
-* Cursor → AI-powered coding
-* Copilot → Code completion
-* Windsurf → AI development workflow
-* Gemini → Research & experimentation
-* Open Code → Fast development
-
----
-
-## 📈 Growth Areas
-
-```yaml
-Frontend:
-  - Advanced JavaScript
-  - React
-  - Next.js
-  - Flutter
-
-AI:
-  - Prompt Engineering
-  - AI Automation
-  - AI Workflows
-  - LLM Applications
-
-Career:
-  - Freelancing
-  - Personal Branding
-  - Client Communication
-  - Product Development
+```mermaid
+mindmap
+  root((Adam))
+    Front-End
+      HTML
+      CSS
+      Bootstrap
+      JavaScript
+      Flutter
+    AI
+      ChatGPT
+      Claude
+      Gemini
+      Cursor
+      Copilot
+      Windsurf
+    Design
+      UI/UX
+      Wireframes
+      Responsive Design
+    Career
+      Freelancing
+      Personal Branding
+      Client Work
+    Skills
+      Problem Solving
+      Vibe Coding
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 💡 Development Philosophy
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamabdelbarey\&show_icons=true)
+I believe great products happen when:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamabdelbarey\&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adamabdelbarey)
-
----
-
-## 📫 Let's Connect!
-
-💼 Open to freelance opportunities
-
-🤖 Passionate about AI-powered development
-
-🌐 Building modern web experiences
-
-🚀 Always learning and creating
-
-📧 [adamabdelbarey@gmail.com](mailto:adamabdelbarey@gmail.com)
+* 🎨 Good design meets clean code
+* 🤖 AI enhances creativity instead of replacing it
+* 🚀 Simplicity beats complexity
+* 📱 User experience comes first
+* 🧩 Every problem has an elegant solution
 
 ---
 
-### Profile Views
+# 📫 Let's Connect!
 
-![Profile Views](https://komarev.com/ghpvc/?username=adamabdelbarey)
+* 💼 Open for freelance opportunities
+* 🤖 Interested in AI-powered development
+* 🌐 Passionate about Front-End Engineering
+* 🎨 Always improving UI/UX skills
+* 🤝 Happy to collaborate on exciting projects
 
-Last Updated: 2026
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=adamabdelbarey\&color=blue)
+
+**Last Updated:** 2026
+
+</div>

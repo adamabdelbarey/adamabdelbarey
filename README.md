@@ -6,7 +6,7 @@
 
 [Portfolio](#) • [LinkedIn](#) • [Email](mailto:adamabdelbarey@gmail.com)
 
-*"Turning ideas into products, one prompt and one pixel at a time."*
+>*"Turning ideas into products, one prompt and one pixel at a time."*
 
 ### 🎨 Front-End Developer • 🤖 AI Prompt Engineer • 💼 Freelancer • 🧩 Problem Solver • ⚡ Vibe Coder
 

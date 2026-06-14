@@ -166,6 +166,6 @@ Career:
 
 ### Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=adamabdelbarey)
 
 Last Updated: 2026
